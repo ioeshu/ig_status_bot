@@ -29,7 +29,7 @@ class InstaBot:
         bot.find_element_by_class_name('sqdOP.yWX7d.y3zKF').click()
         time.sleep(2)
         bot.find_element_by_class_name('aOOlW.HoLwm ').click()
-        # stroies : c6Ldk
+        # stroies : _6q-tv
         time.sleep(2)
         bot.find_element_by_class_name('_6q-tv').click()
 
@@ -38,7 +38,7 @@ class InstaBot:
         bot.find_element_by_class_name('coreSpriteRightChevron').click()
         time.sleep(1)
         
-go = InstaBot('e.s.war','#Eswar0103.A')
+go = InstaBot('ENTER YOUR USERNAME','ENTER YOUR PASSWORD')
 go.Login()
 go.openStories()
 go.next()
